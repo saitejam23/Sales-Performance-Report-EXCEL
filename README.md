@@ -5,7 +5,7 @@
 
 ## Sales Report :
 
-%%%%Project Objective%%%%%
+%%%%Project Objective%%%%
 
 *Purpose of sales analytics:
 *** Empower businesses to monitor and evaluate their sales activities and performance.
